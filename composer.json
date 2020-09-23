@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/phonevalidator",
+    "name": "codica-studio/phonevalidator",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/phonevalidator",
+    "homepage": "https://github.com/codica-studio/phonevalidator",
     "license": "MIT",
     "authors": [
         {
