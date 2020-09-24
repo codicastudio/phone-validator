@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/phonevalidator",
+    "name": "codicastudio/phone-validator",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/phonevalidator",
+    "homepage": "https://github.com/codicastudio/phone-validator",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4",
+        "php": "^7.4 || ^8.0",
         "illuminate/support": "^8.0",
         "illuminate/validation": "^8.0",
         "giggsey/libphonenumber-for-php": "^8.0",
@@ -42,5 +42,7 @@
                 "Propaganistas\\LaravelPhone\\PhoneServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
